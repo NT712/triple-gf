@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				183,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gf_right_better instance 1"
+		},
+		{
+			"offsets": [
+				12,
+				-126
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gf_down instance 1"
+		},
+		{
+			"offsets": [
+				-5,
+				49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "gf_up instance 1"
+		},
+		{
+			"offsets": [
+				9,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gf_left_alt instance 1"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "gf_idle_not_hypno_2s instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hypno Girlfriend",
+	"position": [
+		130,
+		230
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
